@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ömer Şimşek
+- 📖 I'm currently studing electrical engineering in Yildiz Technical University since 2022.
 - 👀 I’m interested in software development.
 - ✨ I'm currently know python intermediate.
 - 🌱 I’m currently learning python and unreal engine with c++.
